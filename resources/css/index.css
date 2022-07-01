@@ -34,7 +34,7 @@ a {
 /*===================Main ==========================*/
 #main {
   width: 100%;
-  height: 500px;
+  height: 600px;
   margin-top: 20px;
   border-color: black;
   border-style: solid;
@@ -47,6 +47,7 @@ a {
   border-style: solid;
   border-width: 1px;
   float: left;
+  padding-left: 20px;
 }
 #main_2 {
   width: 45%;
@@ -56,11 +57,24 @@ a {
   border-width: 1px;
   float: right;
 }
+#main_2 img {
+  height: 100%;
+}
 #main_1 h2 {
-  font-size: 6vh;
+  font-size: 400%;
   color: #2549d3;
   font-weight: 700;
 }
 #main_par1 {
-  font-size: 2.5vh;
+  font-size: 200%;
+}
+#main_par2 {
+  color: white;
+  font-size: 150%;
+  text-align: left;
+}
+.main_span2 {
+  height: 100px;
+  width: 10%;
+  background-color: #2549d3;
 }
