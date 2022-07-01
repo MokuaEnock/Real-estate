@@ -1,6 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
+body {
+  font-family: "Space Grotesk", sans-serif;
+}
 a {
   text-decoration: none;
 }
