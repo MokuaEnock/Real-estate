@@ -187,3 +187,41 @@ a {
   float: right;
   width: 45%;
 }
+
+/*==========================Main Part 5================================*/
+#main5 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  height: 800px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+#main5 h2 {
+  text-align: center;
+}
+#m5_par1 {
+  text-align: center;
+}
+.m5_divs {
+  height: 60%;
+  width: 30%;
+  display: inline-block;
+}
+.m5_divs img {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  height: 100%;
+  width: 100%;
+}
+#m5_more {
+  width: 15%;
+  height: 10%;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  float: right;
+  text-align: center;
+}
