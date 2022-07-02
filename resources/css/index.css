@@ -117,34 +117,53 @@ a {
 
 #main3 {
   width: 100%;
-  height: 800px;
-  margin-top: 20px;
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
+  height: 100%;
+  margin-top: 20%;
+}
+#main3 h2 {
+  color: #0f298b;
+  font-size: 300%;
 }
 #main3 h3 {
   text-align: center;
+  font-size: 250%;
+  color: #0f298b;
 }
 #m3_p1 {
   text-align: center;
+  font-size: 150%;
 }
+
 #main3_1 {
   width: 100%;
   height: 80%;
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
+
   display: flex;
   flex-direction: row;
   text-align: center;
 }
 .m3_1divs {
-  width: 27%;
+  width: 20%;
   height: 100%;
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
+
+  margin-left: 10%;
+  border-radius: 10px;
+  background-color: white;
+}
+.m3_par2 {
+  text-align: center;
+  line-height: 150%;
+  font-size: 150%;
+  padding: 5%;
+}
+.m3_1divs img {
+  height: 100px;
+  width: 120px;
+  padding-top: 7%;
+}
+#loc {
+  height: 70px;
+  width: 80px;
 }
 
 /*==========================Main Part 4================================*/
@@ -152,7 +171,7 @@ a {
 #main4 {
   height: 700px;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 10%;
 }
 #main4_1 {
   width: 45%;
