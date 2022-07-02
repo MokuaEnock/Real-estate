@@ -6,6 +6,7 @@ body {
   font-family: "Space Grotesk", sans-serif;
   padding-left: 100px;
   padding-right: 100px;
+  background-color: #fafafa;
 }
 a {
   text-decoration: none;
@@ -228,38 +229,45 @@ a {
 
 /*==========================Main Part 6================================*/
 #main6 {
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
-  height: 800px;
+  height: fit-content;
   width: 100%;
   margin-top: 10%;
+  text-align: center;
 }
 #main6 h2 {
   text-align: center;
+  color: #0f298b;
+  font-size: 250%;
 }
 #m6_par1 {
   text-align: center;
+  font-size: 150%;
 }
 #main6_1 {
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
   width: 100%;
   height: 80%;
 }
 .m6_div {
-  height: 100%;
-  width: 27%;
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
+  height: fit-content;
+  width: 20%;
+
   display: inline-block;
+  padding-left: 20px;
+  border-radius: 10px;
+  background-color: white;
+  margin-left: 20px;
+}
+.m6_h6 {
+  text-align: left;
+}
+#m6_div h3,
+p {
+  text-align: left;
 }
 
 /*==========================Main Part 6================================*/
 #footer {
-  margin-top: 10px;
+  margin-top: 50px;
   width: 100%;
   height: 400px;
   text-align: center;
