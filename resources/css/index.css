@@ -191,42 +191,59 @@ a {
 
 /*==========================Main Part 5================================*/
 #main5 {
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
-  height: 800px;
+  height: max-content;
   width: 100%;
   margin-top: 10px;
+  text-align: center;
 }
 
 #main5 h2 {
   text-align: center;
+  color: #0f298b;
+  font-size: 250%;
+  font-weight: 700;
 }
 #m5_par1 {
   text-align: center;
+  font-size: 150%;
 }
 .m5_divs {
   height: 60%;
   width: 30%;
   display: inline-block;
+  background-color: white;
+  margin-left: 2%;
+  border-bottom-left-radius: 120px;
+  border-top-right-radius: 120px;
 }
 .m5_divs img {
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
   height: 100%;
   width: 100%;
 }
 #m5_more {
   width: 15%;
   height: 10%;
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
+
   float: right;
   text-align: center;
+  padding-top: 0.5%;
+  background-color: #2549d3;
+  border-radius: 20px;
+  margin-right: 2%;
+  margin-top: 20px;
 }
-
+.m5_par3 {
+  padding-left: 15%;
+}
+#m5_more p {
+  text-align: center;
+  color: white;
+  font-size: 150%;
+  font-weight: 700;
+}
+.span2 {
+  float: right;
+}
 /*==========================Main Part 6================================*/
 #main6 {
   height: fit-content;
