@@ -5,6 +5,7 @@ Vallies Real Estate.
 ## Names of contributors
 
 [Enock Mokua](https://www.linkedin.com/in/enockmokua/)
+![Enock Mokua](resources/images/enock.jpeg)
 
 ## Technologies
 
