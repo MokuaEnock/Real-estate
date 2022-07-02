@@ -145,3 +145,45 @@ a {
   border-style: solid;
   border-width: 1px;
 }
+
+/*==========================Main Part 4================================*/
+
+#main4 {
+  height: 800px;
+  width: 100%;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 10px;
+}
+#main4_1 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  width: 45%;
+  height: 100%;
+  float: left;
+}
+#main4_2 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  width: 45%;
+  height: 100%;
+  float: right;
+  text-align: left;
+}
+#main4_2_1 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  float: left;
+  width: 45%;
+}
+#main4_2_2 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  float: right;
+  width: 45%;
+}
