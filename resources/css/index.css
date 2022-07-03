@@ -4,9 +4,16 @@ html {
 
 body {
   font-family: "Space Grotesk", sans-serif;
+
+  background-color: #fafafa;
+}
+header {
   padding-left: 100px;
   padding-right: 100px;
-  background-color: #fafafa;
+}
+main {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 a {
   text-decoration: none;
